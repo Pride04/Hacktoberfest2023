@@ -1,0 +1,9 @@
+# Variable assignment
+x = 10
+y = "Hello"
+
+# Data types
+num = 10       # integer
+pi = 3.14      # float
+is_true = True # boolean
+name = "Alice" # string
